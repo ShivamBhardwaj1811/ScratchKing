@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ScratchAndWinGame/Scenes/Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 29f5a18d886844167b7e159f3cd7678a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4bd15aab41838400aa1f33c1f4b27017,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 83bdd705238d743fc9e2742b25e98221, type: 2}
